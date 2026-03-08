@@ -51,10 +51,15 @@
   - [AI-Enhanced Search](#ai-enhanced-search)
   - [Domain-Specific AI Search](#domain-specific-ai-search)
 - [📊 GEO Strategies & Best Practices](#-geo-strategies--best-practices)
+  - [Key Industry Data](#key-industry-data)
+  - [AI Search Impact on the Buyer Journey](#ai-search-impact-on-the-buyer-journey)
   - [Content Strategy](#content-strategy)
   - [Technical Optimization](#technical-optimization)
   - [Authority Building](#authority-building)
 - [📈 Analytics & Monitoring](#-analytics--monitoring)
+  - [AI Citation Patterns Across LLMs](#ai-citation-patterns-across-llms)
+  - [AI Referral Traffic by Platform](#ai-referral-traffic-by-platform)
+  - [AI Traffic Tracking Setup (GA4)](#ai-traffic-tracking-setup-ga4)
 - [🏢 Case Studies](#-case-studies)
 - [👥 Communities & Forums](#-communities--forums)
 - [📰 News & Trends](#-news--trends)
@@ -87,6 +92,12 @@
 - [Complete Guide to Generative Engine Optimization (GEO) 2026](https://www.promptmonitor.io/blog/generative-engine-optimization) - Step-by-step GEO implementation guide with measurement framework
 - [What is Generative Engine Optimization (GEO)?](https://www.searchenginejournal.com/generative-engine-optimization-geo/) - Search Engine Journal's beginner guide to GEO
 - [How to Optimize for AI Search Engines](https://www.semrush.com/blog/ai-seo/) - Semrush's AI SEO optimization guide
+- [We Studied the Impact of AI Search on SEO Traffic](https://www.semrush.com/blog/ai-search-seo-traffic-study/) - Semrush's landmark study: AI search visitors convert at 4.4x the rate of traditional organic search, with AI traffic projected to surpass traditional search by 2028
+- [Why Site Health Is Vital For AI Search Visibility](https://www.semrush.com/blog/site-health-ai-search/) - Semrush's FAST framework (Fetchable, Accessible, Structured, Trim) for AI crawler readiness, with a 3-step AI search readiness plan
+- [What Are AI Citations & How Do I Get Them?](https://www.semrush.com/blog/ai-citations/) - Semrush's comprehensive guide covering informational, product, and multimedia citation types, plus strategies to earn citations across LLMs
+- [How Google's AI Mode Compares to Traditional Search and Other LLMs](https://www.semrush.com/blog/ai-mode-comparison-study/) - Semrush study analyzing 150K+ citations across AI Mode, AI Overviews, ChatGPT, and Perplexity with domain/URL overlap data
+- [AI Mentions: How to Get LLMs to Mention Your Brand](https://www.semrush.com/blog/ai-mentions/) - Semrush's guide to improving brand visibility and sentiment in AI-generated responses across LLMs
+- [How to Track, Measure, and Boost AI Referral Traffic](https://www.semrush.com/blog/ai-referral-traffic/) - Semrush's practical guide to setting up AI traffic tracking in GA4 and optimizing for AI referral traffic
 - [The Rise of Answer Engines](https://moz.com/blog/answer-engine-optimization) - Moz's in-depth analysis on answer engine optimization
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews
@@ -224,6 +235,30 @@
 ---
 
 ## 📊 GEO Strategies & Best Practices
+
+### Key Industry Data
+
+| Data Point | Value | Source |
+|-----------|-------|--------|
+| AI search visitor conversion rate vs. traditional organic | **4.4x higher** | [Semrush AI Search Study](https://www.semrush.com/blog/ai-search-seo-traffic-study/) |
+| Projected year AI search traffic surpasses traditional search | **2028** (sooner if Google AI Mode becomes default) | [Semrush AI Search Study](https://www.semrush.com/blog/ai-search-seo-traffic-study/) |
+| AI referral visits (June 2025) | **~1.13 billion**, 357% YoY growth | AI Referral Traffic Research |
+| ChatGPT share of AI referral traffic | **85.79%** | [Semrush AI Traffic Data](https://www.semrush.com/blog/ai-referral-traffic/) |
+| ChatGPT citations from Google positions 21+ | **~90%** | [Semrush AI Search Study](https://www.semrush.com/blog/ai-search-seo-traffic-study/) |
+| AI Overviews appearance rate | **~15%** of keywords | [Semrush Sensor](https://www.semrush.com/sensor/) |
+| Brand mentions prevalence in AI responses | **26-39%** of non-branded queries | [Semrush AI Mentions Study](https://www.semrush.com/blog/ai-mentions/) |
+| B2B AI search conversion rate vs. traditional | **6-27x higher** | Backlinko 2025 Analysis |
+
+### AI Search Impact on the Buyer Journey
+
+| Stage | Example Prompt | AI Response Value | Brand Opportunity |
+|-------|---------------|-------------------|-------------------|
+| **Awareness** | "What are the best men's running shoe brands?" | Brand gets mentioned early in the response | Brand exposure and initial awareness |
+| **Consideration** | "Compare top 3 men's running shoe brands for durability and style" | AI compares brands, provides options beyond a single webpage | Shape perception in real conversations |
+| **Decision** | "Where can I buy these running shoes today?" | AI recommends products and brands, directly influencing decisions | Direct conversion influence |
+| **Purchase** | "Share reviews for this brand and product" | AI surfaces user reviews and word-of-mouth, increasing credibility | Long-term authority asset |
+| **Advocacy** | "Best deals on men's running shoes in my area" | AI recommends purchase options (GPT Shopping) | Conversion from recommendations |
+
 ### Content Strategy
 
 #### 📝 Content Creation Principles
@@ -266,7 +301,41 @@
 - Unsourced opinions
 ```
 
+#### 🏅 Content Types Most Likely to Earn AI Citations
+
+> Source: [Semrush - What Are AI Citations & How Do I Get Them?](https://www.semrush.com/blog/ai-citations/)
+
+| Content Type | Description | Why It Works |
+|-------------|-------------|--------------|
+| **Original Research** | Studies that answer previously unanswered questions | LLMs can use your evidence to support specific claims |
+| **Case Studies** | In-depth stories demonstrating success of a product, service, or strategy | LLMs can use your case studies to support specific recommendations |
+| **Thought Leadership** | Articles expressing original ideas or opinions to influence others | LLMs often want to share unique and diverse perspectives |
+| **News Content** | Up-to-date, accurate articles about current or ongoing events | LLMs can't rely on pre-trained data for recent events |
+| **Brand Content** | High-quality content about your business and offerings | LLMs trust you to provide the most accurate information about your brand |
+
+Tips for making content LLM-friendly:
+- Write sentences and paragraphs that make sense in isolation ("chunkable" content)
+- Structure content with descriptive subheadings using proper HTML heading tags
+- Add useful images and videos for multimedia citations
+- Mention relevant entities and concepts to boost semantic relevance
+- Avoid poetic, vague, or ambiguous language that NLP systems struggle to interpret
+
 ### Technical Optimization
+
+#### 🚀 FAST Framework for AI Crawlability
+
+> Source: [Semrush - Why Site Health Is Vital For AI Search Visibility](https://www.semrush.com/blog/site-health-ai-search/)
+
+The FAST framework helps teams assess their AI crawler readiness:
+
+| Dimension | Question | Key Actions |
+|-----------|----------|-------------|
+| **F - Fetchable** | Can AI retrieve and read your HTML without rendering? | Test pages with JavaScript off; ensure core info is in initial HTML; implement SSR |
+| **A - Accessible** | Is key content understandable without executing scripts? | Include alt text and captions; use proper heading hierarchies (H1-H6); use semantic HTML5 elements |
+| **S - Structured** | Are you using schema, semantic tags, and clear hierarchies? | Create content layers with definition boxes; use Product/Article/Organization schema; implement FAQ schema |
+| **T - Trim** | Are you sending what's needed, no bloat, no noise? | Clean up unnecessary tracking scripts; compress assets and optimize images; minimize JS dependencies |
+
+> Quick tip: Load your top 20 pages with JavaScript disabled. What you see is approximately what AI search crawlers see.
 
 #### 🔧 Technical GEO Checklist
 
@@ -340,6 +409,9 @@ Allow: /
 ```
 
 #### 📋 Recommended Schema Types
+
+> Schema markup helps AI systems better understand and display your content. Google [recommends](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data) using JSON-LD to implement schema markup.
+
 ```json
 {
   "@context": "https://schema.org",
@@ -365,6 +437,37 @@ Allow: /
 - **Semantic Trust Mechanisms**: Implement strategies that build semantic trust with AI models, such as providing strong factual backing, citing credible research, and demonstrating expertise. This goes beyond traditional backlinks to focus on the intrinsic trustworthiness of the content itself.
 - **RAG (Retrieval-Augmented Generation) Adaptation**: Optimize content to be easily retrieved and augmented by RAG systems. This includes creating modular content, using clear headings and summaries, and ensuring key information is easily extractable for AI models to synthesize.
 
+#### 🛒 Product Feed for AI Platforms
+
+> Source: [Semrush - What Are AI Citations & How Do I Get Them?](https://www.semrush.com/blog/ai-citations/)
+
+A product feed is a structured file listing product details that may help AI systems better understand and display your product information, earning more product citations. Submit your product feed to:
+
+| Platform | Submission Method | Status |
+|----------|------------------|--------|
+| **Google** | [Google Merchant Center](https://business.google.com/us/merchant-center/) | Active - powers Google AI Mode product citations |
+| **Microsoft** | [Microsoft Merchant Center](https://help.ads.microsoft.com/#apex/3/en/51085/1) | Active - powers Copilot product results |
+| **ChatGPT** | [Register interest](https://openai.com/chatgpt/search-product-discovery/) | Coming soon - feed submissions not yet open |
+
+#### 📋 3-Step AI Search Readiness Plan
+
+> Source: [Semrush - Why Site Health Is Vital For AI Search Visibility](https://www.semrush.com/blog/site-health-ai-search/)
+
+**Step 1 - Assessment:**
+1. Benchmark current AI citation and mention rates using AI search monitoring tools
+2. Test content extraction with browser JavaScript disabled
+3. Audit your top 20 pages with HTML-only crawling
+
+**Step 2 - Quick Wins:**
+1. Optimize page load times to under 2 seconds
+2. Add FAQ schema to your most important pages
+3. Clean up robots.txt and implement/update llms.txt
+
+**Step 3 - Structural Improvements:**
+1. Add structured data for products, articles, or services
+2. Create clear content hierarchies with semantic HTML
+3. Implement server-side rendering for critical content paths
+
 ### Authority Building
 
 #### 🏆 E-E-A-T Optimization
@@ -385,9 +488,83 @@ Allow: /
 - Participate in knowledge platforms like Wikipedia
 - Provide expert answers on Q&A platforms (Quora, Stack Overflow)
 
+#### 🗣️ AI Brand Mentions Optimization
+
+> Source: [Semrush - AI Mentions: How to Get LLMs to Mention Your Brand](https://www.semrush.com/blog/ai-mentions/)
+
+AI mentions are brand references in AI-generated responses. LLMs include brand mentions in **26-39%** of non-branded query responses. Key strategies:
+
+**Getting More AI Mentions:**
+- Publish in-depth content about your brand, products, and specific use cases
+- Get brand mentions in context-rich third-party content (blog posts, news, Reddit, Quora)
+- Use affiliate and influencer marketing to generate buzz
+- List your brand on relevant high-quality directories
+- Create comparison content between your offerings and alternatives
+
+**Improving AI Mention Sentiment:**
+- Gather and act on customer feedback
+- Publish data-backed case studies proving product/service success
+- Manage online reviews proactively
+- Strengthen and consistently communicate your unique value propositions (UVPs)
+- Plan a crisis management strategy for negative mentions
+
+**Challenges for Emerging Brands:**
+- AI systems favor brands with extensive digital presence
+- Lesser-known brands may receive hedging language ("might be worth considering")
+- Breaking through requires aggressive digital footprint building
+
 ---
 
 ## 📈 Analytics & Monitoring
+
+### AI Citation Patterns Across LLMs
+
+> Source: [Semrush - AI Mode Comparison Study](https://www.semrush.com/blog/ai-mode-comparison-study/)
+
+| Platform | Domain Overlap with Google Top 10 | URL Overlap with Google Top 10 | Key Characteristics |
+|----------|----------------------------------|-------------------------------|---------------------|
+| **Perplexity** | 91% | 82% | Strongest alignment with Google's top 10 |
+| **Google AI Overviews** | 86% | 67% | Relies heavily on Google's traditional search index |
+| **Google AI Mode** | 54% | 35% | More independent retrieval; ~7 unique domains in sidebar |
+| **ChatGPT** | Lowest | Lowest | Leans toward Bing's ranking system; cites pages ranking 21+ |
+
+Key findings:
+- Reddit, YouTube, and Facebook appear in **68%+** of AI Mode results with additional links
+- Quora is the most commonly cited website in Google AI Overviews, with Reddit in second place
+- **50%** of ChatGPT links point to business/service websites
+- Strong domain-level Google rankings correlate strongly with AI citation frequency
+- LLMs often cite different pages from the same trusted domains (high domain overlap, lower URL overlap)
+- Commercial/transactional queries trigger responses **~2x longer** than informational ones
+
+### AI Referral Traffic by Platform
+
+> Source: [Semrush - AI Referral Traffic](https://www.semrush.com/blog/ai-referral-traffic/) (July 2025 data)
+
+| AI Platform | Monthly Visits | Traffic Share |
+|------------|---------------|---------------|
+| ChatGPT | 5.24B | 85.79% |
+| Gemini | 287.5M | 4.70% |
+| Perplexity | 173.6M | 2.84% |
+| Grok | 153.0M | 2.50% |
+| Claude | 136.6M | 2.23% |
+| Copilot | 97.8M | 1.60% |
+| Meta AI | 16.6M | 0.27% |
+
+### AI Traffic Tracking Setup (GA4)
+
+To track AI referral traffic in Google Analytics 4, create a custom channel group with this regex filter:
+
+```
+Source matches regex:
+.*(chatgpt\.com|openai\.com|perplexity\.ai|claude\.ai|gemini\.google\.com|bard\.google\.com|you\.com|search\.brave\.com|copilot\.microsoft\.com).*
+```
+
+Steps:
+1. Go to GA4 → Admin → Data display → Channel groups
+2. Add a new channel named "AI Referral Traffic"
+3. Set condition: Source → matches regex → paste the regex above
+4. Move the AI Traffic group above the Referral group
+5. Save and apply across acquisition reports
 
 ### Key Metrics
 

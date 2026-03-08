@@ -51,10 +51,15 @@
   - [AI 增强搜索](#ai-增强搜索)
   - [专业领域 AI 搜索](#专业领域-ai-搜索)
 - [📊 GEO 策略与最佳实践](#-geo-策略与最佳实践)
+  - [核心行业数据](#核心行业数据)
+  - [AI 搜索对用户购买旅程的影响](#ai-搜索对用户购买旅程的影响)
   - [内容策略](#内容策略)
   - [技术优化](#技术优化)
   - [权威性建设](#权威性建设)
 - [📈 分析与监测](#-分析与监测)
+  - [主流 LLM 的引用来源对比](#主流-llm-的引用来源对比)
+  - [AI 推荐流量（按平台）](#ai-推荐流量按平台)
+  - [AI 流量追踪设置（GA4）](#ai-流量追踪设置ga4)
 - [🏢 案例研究](#-案例研究)
 - [👥 社区与论坛](#-社区与论坛)
 - [📰 新闻与趋势](#-新闻与趋势)
@@ -87,6 +92,12 @@
 - [Complete Guide to Generative Engine Optimization (GEO) 2026](https://www.promptmonitor.io/blog/generative-engine-optimization) - Prompt Monitor 的 GEO 分步实施指南
 - [What is Generative Engine Optimization (GEO)?](https://www.searchenginejournal.com/generative-engine-optimization-geo/) - Search Engine Journal 的 GEO 入门指南
 - [How to Optimize for AI Search Engines](https://www.semrush.com/blog/ai-seo/) - Semrush 的 AI SEO 优化指南
+- [We Studied the Impact of AI Search on SEO Traffic](https://www.semrush.com/blog/ai-search-seo-traffic-study/) - Semrush 里程碑式研究：AI 搜索访客转化率是传统自然搜索的 4.4 倍，预计 2028 年 AI 流量将超越传统搜索
+- [Why Site Health Is Vital For AI Search Visibility](https://www.semrush.com/blog/site-health-ai-search/) - Semrush 的 FAST 框架（可获取、可访问、结构化、精简）及 3 步 AI 搜索就绪计划
+- [What Are AI Citations & How Do I Get Them?](https://www.semrush.com/blog/ai-citations/) - Semrush 全面指南，涵盖信息型、产品型和多媒体型引用类型，以及跨 LLM 获取引用的策略
+- [How Google's AI Mode Compares to Traditional Search and Other LLMs](https://www.semrush.com/blog/ai-mode-comparison-study/) - Semrush 研究，分析 AI Mode、AI Overviews、ChatGPT 和 Perplexity 等平台 15 万+引用的域名/URL 重合数据
+- [AI Mentions: How to Get LLMs to Mention Your Brand](https://www.semrush.com/blog/ai-mentions/) - Semrush 提升品牌在 AI 生成响应中可见度和情感的指南
+- [How to Track, Measure, and Boost AI Referral Traffic](https://www.semrush.com/blog/ai-referral-traffic/) - Semrush 的 GA4 AI 流量追踪设置及 AI 推荐流量优化实战指南
 - [The Rise of Answer Engines](https://moz.com/blog/answer-engine-optimization) - Moz 关于答案引擎优化的深度分析
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs 的 AI 内容优化策略
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - 2026 年 Google AI 概述优化完整指南
@@ -224,6 +235,30 @@
 ---
 
 ## 📊 GEO 策略与最佳实践
+
+### 核心行业数据
+
+| 数据指标 | 数值 | 来源 |
+|---------|------|------|
+| AI 搜索访客转化率 vs 传统自然搜索 | **4.4 倍** | [Semrush AI 搜索研究](https://www.semrush.com/blog/ai-search-seo-traffic-study/) |
+| AI 搜索流量预计超越传统搜索的年份 | **2028 年**（若 Google AI Mode 成为默认则更早） | [Semrush AI 搜索研究](https://www.semrush.com/blog/ai-search-seo-traffic-study/) |
+| AI 推荐访问量（2025 年 6 月） | **约 11.3 亿次**，同比增长 357% | AI 推荐流量研究 |
+| ChatGPT 占 AI 推荐流量份额 | **85.79%** | [Semrush AI 流量数据](https://www.semrush.com/blog/ai-referral-traffic/) |
+| ChatGPT 引用来自 Google 排名 21+ 的页面 | **约 90%** | [Semrush AI 搜索研究](https://www.semrush.com/blog/ai-search-seo-traffic-study/) |
+| AI Overviews 出现率 | 约 **15%** 的关键词 | [Semrush Sensor](https://www.semrush.com/sensor/) |
+| AI 响应中的品牌提及率 | 非品牌查询的 **26-39%** | [Semrush AI 提及研究](https://www.semrush.com/blog/ai-mentions/) |
+| B2B AI 搜索转化率 vs 传统搜索 | **6-27 倍** | Backlinko 2025 年分析 |
+
+### AI 搜索对用户购买旅程的影响
+
+| 阶段 | 用户提示词示例 | AI 回答价值 | 品牌机会 |
+|------|--------------|------------|---------|
+| **了解** | "男士跑鞋的最佳品牌是什么？" | 品牌在回答中被提及，在答案中更早获得曝光 | 品牌曝光和初始认知 |
+| **考虑** | "对比前三名主打耐穿性与时尚感的男士跑鞋品牌" | AI 对比品牌，提供多个选项 | 在真实对话中塑造认知 |
+| **决策** | "今天我可以在哪里买到这些跑鞋？" | AI 推荐产品和品牌，直接影响用户决策 | 直接影响转化 |
+| **购买** | "分享此品牌和产品的评论" | AI 让用户评论和口碑更可信 | 长期权威资产 |
+| **推荐** | "我所在地区最划算的男士跑鞋交易" | AI 推荐购买选项（GPT 购物） | 来自推荐的转化 |
+
 ### 内容策略
 
 #### 📝 内容创作原则
@@ -266,7 +301,41 @@
 - 缺乏来源的观点
 ```
 
+#### 🏅 最易获得 AI 引用的内容类型
+
+> 来源：[Semrush - What Are AI Citations & How Do I Get Them?](https://www.semrush.com/blog/ai-citations/)
+
+| 内容类型 | 描述 | 为什么有效 |
+|---------|------|-----------|
+| **原创研究** | 回答以前未被有效回答的问题的研究 | LLM 可以使用你提供的证据来支持具体的主张 |
+| **案例研究** | 展示产品、服务或策略成功的深度故事 | LLM 可以使用你的案例研究来支持具体的建议 |
+| **思想领导力** | 表达原创想法或观点以影响他人的文章 | LLM 通常希望分享独特而多样的观点 |
+| **新闻内容** | 关于当前或持续事件的最新、准确的文章 | LLM 无法依赖预训练数据来分析最近发生的事件 |
+| **品牌内容** | 关于你的业务和产品的高质量内容 | LLM 可以信任你提供关于你品牌的最准确信息 |
+
+让内容对 LLM 更友好的技巧：
+- 编写独立可理解的句子和段落（"可分块"内容）
+- 使用描述性子标题和正确的 HTML 标题标签组织内容
+- 添加有用的图片和视频以获得多媒体引用
+- 提及相关实体和概念以提升语义相关性
+- 避免 NLP 系统难以理解的诗意、模糊或歧义性语言
+
 ### 技术优化
+
+#### 🚀 FAST 框架：AI 可爬性评估
+
+> 来源：[Semrush - Why Site Health Is Vital For AI Search Visibility](https://www.semrush.com/blog/site-health-ai-search/)
+
+FAST 框架帮助团队快速评估 AI 爬虫就绪度：
+
+| 维度 | 核心问题 | 关键行动 |
+|------|---------|---------|
+| **F - Fetchable（可获取）** | AI 能否在不渲染的情况下检索和读取你的 HTML？ | 关闭 JS 测试页面；确保核心信息在初始 HTML 中；实施 SSR |
+| **A - Accessible（可访问）** | 不执行脚本时，你的关键内容是否可理解？ | 添加 alt 文本和说明；使用正确的标题层次（H1-H6）；使用语义化 HTML5 元素 |
+| **S - Structured（结构化）** | 你是否使用了 schema、语义标签和清晰的层次结构？ | 创建定义框和列表式内容层次；使用 Product/Article/Organization schema；实施 FAQ schema |
+| **T - Trim（精简）** | 你是否发送了所需的内容，没有臃肿和噪音？ | 清理不必要的追踪脚本；压缩资源和优化图片；减少 JS 依赖 |
+
+> 快速提示：关闭 JavaScript 加载你的前 20 个页面，你看到的内容大致就是 AI 搜索爬虫看到的内容。
 
 #### 🔧 技术 GEO 检查清单
 
@@ -340,6 +409,9 @@ Allow: /
 ```
 
 #### 📋 推荐的 Schema 类型
+
+> Schema 标记帮助 AI 系统更好地理解和展示你的内容。Google [推荐](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)使用 JSON-LD 实施 Schema 标记。
+
 ```json
 {
   "@context": "https://schema.org",
@@ -365,6 +437,37 @@ Allow: /
 - **语义信任机制 (Semantic Trust Mechanisms)**: 实施与 AI 模型建立语义信任的策略，例如提供强有力的事实依据、引用可靠的研究、展示专业知识。这超越了传统的反向链接，专注于内容本身的内在可信度。
 - **RAG (检索增强生成) 适配 (RAG Adaptation)**: 优化内容，使其易于被 RAG 系统检索和增强。这包括创建模块化内容、使用清晰的标题和摘要，并确保关键信息易于 AI 模型提取和综合。
 
+#### 🛒 AI 平台产品信息流（Product Feed）
+
+> 来源：[Semrush - What Are AI Citations & How Do I Get Them?](https://www.semrush.com/blog/ai-citations/)
+
+产品信息流是结构化的产品详情文件，帮助 AI 系统更好地理解和展示你的产品信息，以获取更多产品引用。提交你的产品信息流到：
+
+| 平台 | 提交方式 | 状态 |
+|------|---------|------|
+| **Google** | [Google Merchant Center](https://business.google.com/us/merchant-center/) | 已开放 - 支持 Google AI Mode 产品引用 |
+| **Microsoft** | [Microsoft Merchant Center](https://help.ads.microsoft.com/#apex/3/en/51085/1) | 已开放 - 支持 Copilot 产品结果 |
+| **ChatGPT** | [登记兴趣](https://openai.com/chatgpt/search-product-discovery/) | 即将推出 - 尚未开放信息流提交 |
+
+#### 📋 3 步 AI 搜索就绪计划
+
+> 来源：[Semrush - Why Site Health Is Vital For AI Search Visibility](https://www.semrush.com/blog/site-health-ai-search/)
+
+**第 1 步 - 评估：**
+1. 使用 AI 搜索监测工具评估当前 AI 引用和提及率基准
+2. 关闭浏览器 JavaScript 测试内容提取
+3. 对前 20 个页面进行纯 HTML 爬取审核
+
+**第 2 步 - 快速优化：**
+1. 将页面加载时间优化到 2 秒以内
+2. 为最重要的页面添加 FAQ schema
+3. 清理 robots.txt 并实施/更新 llms.txt
+
+**第 3 步 - 结构化改进：**
+1. 为产品、文章或服务添加结构化数据
+2. 使用语义化 HTML 创建清晰的内容层次结构
+3. 为关键内容路径实施服务端渲染
+
 ### 权威性建设
 
 #### 🏆 E-E-A-T 优化
@@ -385,9 +488,83 @@ Allow: /
 - 参与 Wikipedia 等知识平台
 - 在问答平台提供专业回答（知乎、Stack Overflow）
 
+#### 🗣️ AI 品牌提及优化
+
+> 来源：[Semrush - AI Mentions: How to Get LLMs to Mention Your Brand](https://www.semrush.com/blog/ai-mentions/)
+
+AI 品牌提及是 AI 生成响应中对品牌的引用。LLM 在 **26-39%** 的非品牌查询响应中包含品牌提及。关键策略：
+
+**获取更多 AI 品牌提及：**
+- 发布关于品牌、产品和具体用例的深度内容
+- 在上下文丰富的第三方内容中获取品牌提及（博客文章、新闻、Reddit、知乎）
+- 利用联盟营销和 KOL 营销制造话题
+- 将品牌列入相关的高质量目录
+- 创建你的产品与竞品的对比内容
+
+**改善 AI 品牌提及的情感：**
+- 收集并根据客户反馈采取行动
+- 发布数据支持的案例研究证明产品/服务的成功
+- 主动管理在线评论
+- 加强并一致传达你的独特价值主张（UVP）
+- 制定负面提及的危机管理策略
+
+**新兴品牌面临的挑战：**
+- AI 系统偏向数字足迹广泛的品牌
+- 知名度较低的品牌可能收到保守性语言（"可能值得考虑"）
+- 突围需要积极的数字足迹建设
+
 ---
 
 ## 📈 分析与监测
+
+### 主流 LLM 的引用来源对比
+
+> 来源：[Semrush - AI Mode 对比研究](https://www.semrush.com/blog/ai-mode-comparison-study/)
+
+| 平台 | 域名重合率（vs Google Top 10） | URL 重合率（vs Google Top 10） | 关键特点 |
+|------|------------------------------|-------------------------------|---------|
+| **Perplexity** | 91% | 82% | 与 Google Top 10 一致性最高 |
+| **Google AI Overviews** | 86% | 67% | 高度依赖 Google 传统搜索索引 |
+| **Google AI Mode** | 54% | 35% | 更独立的检索行为；侧边栏平均约 7 个不同域名 |
+| **ChatGPT** | 最低 | 最低 | 偏向 Bing 排名体系；主要引用 Google 排名 21+ 的页面 |
+
+核心发现：
+- Reddit、YouTube 和 Facebook 出现在 **68%+** 的 AI Mode 带额外链接的结果中
+- Quora 是 Google AI Overviews 中被引用最多的网站，Reddit 排第二
+- ChatGPT 链接中 **50%** 指向商业/服务网站
+- Google 域名级别的强排名与 AI 引用频率高度相关
+- LLM 常从同一受信域名引用不同页面（域名重合度高，URL 重合度较低）
+- 商业/交易类查询触发的响应长度是信息类查询的 **约 2 倍**
+
+### AI 推荐流量（按平台）
+
+> 来源：[Semrush - AI 推荐流量](https://www.semrush.com/blog/ai-referral-traffic/)（2025 年 7 月数据）
+
+| AI 平台 | 月访问量 | 流量份额 |
+|---------|---------|---------|
+| ChatGPT | 52.4 亿 | 85.79% |
+| Gemini | 2.88 亿 | 4.70% |
+| Perplexity | 1.74 亿 | 2.84% |
+| Grok | 1.53 亿 | 2.50% |
+| Claude | 1.37 亿 | 2.23% |
+| Copilot | 9780 万 | 1.60% |
+| Meta AI | 1660 万 | 0.27% |
+
+### AI 流量追踪设置（GA4）
+
+在 Google Analytics 4 中追踪 AI 推荐流量，使用以下正则表达式创建自定义渠道分组：
+
+```
+Source matches regex:
+.*(chatgpt\.com|openai\.com|perplexity\.ai|claude\.ai|gemini\.google\.com|bard\.google\.com|you\.com|search\.brave\.com|copilot\.microsoft\.com).*
+```
+
+设置步骤：
+1. 进入 GA4 → 管理 → 数据显示 → 渠道分组
+2. 添加新渠道，命名为"AI 推荐流量"
+3. 设置条件：来源 → 匹配正则表达式 → 粘贴上述 regex
+4. 将 AI 流量分组移到推荐分组上方
+5. 保存并应用到获取报告
 
 ### 关键指标
 
