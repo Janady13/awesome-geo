@@ -31,6 +31,18 @@
 
 ---
 
+## 🤖 GEO Agent Skill
+
+Want your AI coding agent to implement GEO best practices automatically? Install the **geo-best-practices** agent skill — production-grade GEO optimization rules for Cursor, Claude Code, Codex, and [37+ AI agents](https://github.com/vercel-labs/skills#supported-agents).
+
+```bash
+npx skills add luka2chat/geo-skills
+```
+
+12 actionable rule files covering content strategy, structured data, AI crawler config, llms.txt, E-E-A-T, brand mentions, product feeds, and more. See [geo-skills](https://github.com/luka2chat/geo-skills) for details.
+
+---
+
 ## 📚 Table of Contents
 
 - [📖 What is GEO?](#-what-is-geo)

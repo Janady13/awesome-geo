@@ -31,6 +31,18 @@
 
 ---
 
+## 🤖 GEO Agent Skill
+
+想让你的 AI 编程助手自动实现 GEO 最佳实践？安装 **geo-best-practices** agent skill — 工业级 GEO 优化规则，支持 Cursor、Claude Code、Codex 等 [37+ AI 代理](https://github.com/vercel-labs/skills#supported-agents)。
+
+```bash
+npx skills add luka2chat/geo-skills
+```
+
+包含 12 个可执行的规则文件，涵盖内容策略、结构化数据、AI 爬虫配置、llms.txt、E-E-A-T、品牌提及、产品 Feed 等。详见 [geo-skills](https://github.com/luka2chat/geo-skills)。
+
+---
+
 ## 📚 目录
 
 - [📖 什么是 GEO？](#-什么是-geo)
