@@ -113,26 +113,17 @@ npx skills add luka2chat/geo-skills
 - [The Rise of Answer Engines](https://moz.com/blog/answer-engine-optimization) - Moz's in-depth analysis on answer engine optimization
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs' AI content optimization strategies
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - Comprehensive guide to optimizing for Google AI Overviews
-- [E-E-A-T in the Age of AI](https://www.contentstrategy.com/eeat-ai-optimization) - E-E-A-T strategies for the AI era
-- [How to Get Your Brand Mentioned by AI Chatbots](https://www.orbitmedia.com/blog/ai-brand-mentions/) - Orbit Media's tactical guide for increasing AI brand mentions
-- [GEO vs SEO: Key Differences and How to Optimize for Both](https://www.wordlift.io/blog/en/geo-vs-seo/) - WordLift's comparison guide covering dual optimization strategies
-- [The AI Search Revolution: What Marketers Need to Know](https://sparktoro.com/blog/the-ai-search-revolution/) - SparkToro's data-driven analysis of AI search impact on marketing
-- [How Perplexity AI Selects Sources: A Deep Dive](https://detailed.com/perplexity-sources/) - Detailed analysis of Perplexity's source selection algorithm and what it means for content creators
-- [Building Authority in the Age of AI Search](https://www.animalz.co/blog/ai-search-authority/) - Animalz's framework for building content authority recognized by AI engines
 
 ### Video Tutorials
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - In-depth GEO strategy focusing on building AI visibility through authority
-- [The GEO Playbook: Generative Engine Optimization Guide](https://rosssimmonds.com/resources/geo-playbook/) - Ross Simmonds' free 10-chapter video guide for B2B SaaS GEO
-- [AI Search Optimization Masterclass](https://www.youtube.com/watch?v=AI-GEO-2026) - Comprehensive video course covering GEO fundamentals to advanced tactics
-- [How to Rank in ChatGPT and Perplexity](https://www.youtube.com/watch?v=rank-ai-search) - Step-by-step tutorial on optimizing content for conversational AI search
+- [How to Win in Generative Engine Optimization (GEO): Playbook from +30 Sites](https://www.youtube.com/watch?v=JMaDW1uOzY0) - Embarque's practical GEO framework with real case study data (27K+ AI visits)
+- [How to Rank in ChatGPT (SearchGPT SEO Guide 2026)](https://www.youtube.com/watch?v=0wF7Fru91Cw) - Step-by-step checklist for ranking in ChatGPT, Perplexity, and AI search engines
+- [LLM SEO: How to Get Mentioned First on ChatGPT, Perplexity, and Grok](https://www.youtube.com/watch?v=gLawGsda_1s) - Practical walkthrough of content strategies for AI search engine visibility
 
 ### Podcasts
 
-- [Search Off the Record](https://www.google.com/podcasts/search-off-the-record) - Google's official search podcast, covering AI search evolution
 - [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot marketing podcast, frequently discussing AI marketing and GEO topics
 - [SEOFOMO Weekly](https://seofomo.co/) - Aleyda Solis' weekly SEO & AI search newsletter with podcast episodes
-- [The AI SEO Show](https://podcasts.apple.com/us/podcast/the-ai-seo-show/) - Dedicated podcast exploring AI's impact on search and content marketing
-- [Voices of Search](https://www.voicesofsearch.com/) - Daily SEO & AI search podcast hosted by Benjamin Shapiro
 
 ---
 
@@ -149,8 +140,6 @@ npx skills add luka2chat/geo-skills
 | **Profound** | Deep geo-analysis with multi-language support for AI brand visibility | [profound.ai](https://profound.ai) |
 | **Otterly.AI** | AI search engine ranking tracker | [otterly.ai](https://otterly.ai) |
 | **Peec AI** | Analyze brand mentions in AI search | [peec.ai](https://peec.ai) |
-| **Scrunch AI** | Real-time AI visibility monitoring with hallucination detection | [scrunch.ai](https://scrunch.ai) |
-| **Goodie AI** | Professional GEO platform supporting ChatGPT, Gemini, Perplexity multi-platform monitoring | [goodie.ai](https://goodie.ai) |
 | **Ezeo** | AI-powered SEO, GEO & AEO platform tracking ChatGPT, Claude, Perplexity, Gemini, Grok, and Reddit | [ezeo.ai](https://ezeo.ai) |
 | **Prompt Monitor** | Track and optimize AI search performance with prompt-level analytics | [promptmonitor.io](https://www.promptmonitor.io) |
 | **Knowatoa** | AI search visibility analytics platform | [knowatoa.com](https://knowatoa.com) |
@@ -168,7 +157,6 @@ npx skills add luka2chat/geo-skills
 | **Frase** | Agentic SEO & GEO platform with AI research, content creation, and real-time GEO scoring across ChatGPT, Perplexity, Claude, Gemini | [frase.io](https://frase.io) |
 | **NeuronWriter** | NLP-based content optimization | [neuronwriter.com](https://neuronwriter.com) |
 | **Writesonic** | AI content generation platform with AEO features. | [writesonic.com](https://writesonic.com) |
-| **Athena** | AI search intelligence platform that focuses on understanding how AI engines use and cite content. | [athena.com](https://athena.com) |
 | **Answer Socrates** | Best for GEO Keyword Discovery | [answersocrates.com](https://answersocrates.com) |
 
 ### Brand Monitoring
@@ -187,7 +175,6 @@ npx skills add luka2chat/geo-skills
 | **Schema.org** | Structured data standards | [schema.org](https://schema.org) |
 | **Google Rich Results Test** | Test structured data | [Google Tool](https://search.google.com/test/rich-results) |
 | **Schema Markup Generator** | Structured data generator | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
-| **Merkle Schema Markup Generator** | Advanced Schema generation tool | [merkle.com](https://www.merkle.com/tools/schema-markup-generator) |
 | **Schema Pro** | WordPress plugin for automated Schema markup generation | [wpschema.com](https://wpschema.com) |
 
 ### AI Citation & Visibility Analytics
@@ -195,11 +182,7 @@ npx skills add luka2chat/geo-skills
 | Tool | Description | Link |
 |------|-------------|------|
 | **Maximus Labs** | AI visibility analytics tracking brand mentions and citations across 10+ AI platforms | [maximuslabs.ai](https://www.maximuslabs.ai) |
-| **AIntelligence** | Enterprise AI search analytics with competitive benchmarking and share-of-voice reporting | [aintelligence.io](https://aintelligence.io) |
-| **LLM Radar** | Real-time monitoring of how LLMs reference and recommend brands across queries | [llmradar.com](https://llmradar.com) |
-| **Rankscience** | Automated AI search testing platform with A/B testing for GEO strategies | [rankscience.com](https://rankscience.com) |
 | **Seer Interactive AI Tools** | AI-powered search analytics suite for understanding AI citation patterns | [seerinteractive.com](https://www.seerinteractive.com) |
-| **Zyppy** | SEO & GEO testing platform with focus on AI Overviews optimization | [zyppy.com](https://zyppy.com) |
 | **Originality.ai** | AI content detection and optimization tool ensuring content authenticity for AI search | [originality.ai](https://originality.ai) |
 | **BrightEdge AI Search** | Enterprise platform tracking AI search visibility across Google AI Overviews and Bing Copilot | [brightedge.com](https://www.brightedge.com) |
 | **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |

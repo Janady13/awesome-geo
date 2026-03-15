@@ -113,26 +113,17 @@ npx skills add luka2chat/geo-skills
 - [The Rise of Answer Engines](https://moz.com/blog/answer-engine-optimization) - Moz 关于答案引擎优化的深度分析
 - [Optimizing Content for ChatGPT and AI Assistants](https://ahrefs.com/blog/ai-seo/) - Ahrefs 的 AI 内容优化策略
 - [How to Optimize for Google AI Overviews 2026](https://becomingseo.com/insights/aeo-geo/optimize-for-google-ai-overviews/) - 2026 年 Google AI 概述优化完整指南
-- [E-E-A-T in the Age of AI](https://www.contentstrategy.com/eeat-ai-optimization) - AI 时代的 E-E-A-T 策略
-- [How to Get Your Brand Mentioned by AI Chatbots](https://www.orbitmedia.com/blog/ai-brand-mentions/) - Orbit Media 提升 AI 品牌提及的实战指南
-- [GEO vs SEO: Key Differences and How to Optimize for Both](https://www.wordlift.io/blog/en/geo-vs-seo/) - WordLift 的 GEO 与 SEO 对比及双优化策略指南
-- [The AI Search Revolution: What Marketers Need to Know](https://sparktoro.com/blog/the-ai-search-revolution/) - SparkToro 关于 AI 搜索对营销影响的数据分析
-- [How Perplexity AI Selects Sources: A Deep Dive](https://detailed.com/perplexity-sources/) - 深入分析 Perplexity 的来源选择算法及其对内容创作者的意义
-- [Building Authority in the Age of AI Search](https://www.animalz.co/blog/ai-search-authority/) - Animalz 构建 AI 引擎认可的内容权威性框架
 
 ### 视频教程
 - [Forget SEO Hacks — GEO Is About Credibility, Clarity, and Control](https://www.youtube.com/watch?v=-PFBgavuFrs) - 深度 GEO 策略，聚焦通过权威性构建 AI 可见度
-- [The GEO Playbook: Generative Engine Optimization Guide](https://rosssimmonds.com/resources/geo-playbook/) - Ross Simmonds 的免费 10 章 B2B SaaS GEO 视频指南
-- [AI Search Optimization Masterclass](https://www.youtube.com/watch?v=AI-GEO-2026) - 涵盖 GEO 基础到高级策略的综合视频课程
-- [How to Rank in ChatGPT and Perplexity](https://www.youtube.com/watch?v=rank-ai-search) - 为对话式 AI 搜索优化内容的分步教程
+- [How to Win in Generative Engine Optimization (GEO): Playbook from +30 Sites](https://www.youtube.com/watch?v=JMaDW1uOzY0) - Embarque 的实战 GEO 框架，含真实案例数据（27K+ AI 访问量）
+- [How to Rank in ChatGPT (SearchGPT SEO Guide 2026)](https://www.youtube.com/watch?v=0wF7Fru91Cw) - 在 ChatGPT、Perplexity 等 AI 搜索引擎中获得排名的分步清单
+- [LLM SEO: How to Get Mentioned First on ChatGPT, Perplexity, and Grok](https://www.youtube.com/watch?v=gLawGsda_1s) - AI 搜索引擎内容优化策略实操演示
 
 ### 播客
 
-- [Search Off the Record](https://www.google.com/podcasts/search-off-the-record) - Google 官方搜索播客，涵盖 AI 搜索演进
 - [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot 营销播客，经常讨论 AI 营销和 GEO 话题
 - [SEOFOMO Weekly](https://seofomo.co/) - Aleyda Solis 的每周 SEO 与 AI 搜索新闻播客
-- [The AI SEO Show](https://podcasts.apple.com/us/podcast/the-ai-seo-show/) - 探索 AI 对搜索和内容营销影响的专题播客
-- [Voices of Search](https://www.voicesofsearch.com/) - Benjamin Shapiro 主持的每日 SEO 和 AI 搜索播客
 
 ---
 
@@ -149,8 +140,6 @@ npx skills add luka2chat/geo-skills
 | **Profound** | 深度分析与多语言支持的 AI 品牌可见度监测 | [profound.ai](https://profound.ai) |
 | **Otterly.AI** | AI 搜索引擎排名追踪工具 | [otterly.ai](https://otterly.ai) |
 | **Peec AI** | 分析 AI 搜索中的品牌提及 | [peec.ai](https://peec.ai) |
-| **Scrunch AI** | 实时 AI 可见度监测，支持 AI 幻觉检测 | [scrunch.ai](https://scrunch.ai) |
-| **Goodie AI** | 专业 GEO 平台，支持 ChatGPT、Gemini、Perplexity 多平台监测 | [goodie.ai](https://goodie.ai) |
 | **Ezeo** | AI 驱动的 SEO、GEO 和 AEO 平台，追踪 ChatGPT、Claude、Perplexity、Gemini、Grok 和 Reddit | [ezeo.ai](https://ezeo.ai) |
 | **Prompt Monitor** | 基于 Prompt 级别分析的 AI 搜索性能追踪和优化 | [promptmonitor.io](https://www.promptmonitor.io) |
 | **Knowatoa** | AI 搜索可见度分析平台 | [knowatoa.com](https://knowatoa.com) |
@@ -168,7 +157,6 @@ npx skills add luka2chat/geo-skills
 | **Frase** | 智能 SEO 和 GEO 平台，集 AI 研究、内容创作和实时 GEO 评分于一体，支持 ChatGPT、Perplexity、Claude、Gemini | [frase.io](https://frase.io) |
 | **NeuronWriter** | 基于 NLP 的内容优化 | [neuronwriter.com](https://neuronwriter.com) |
 | **Writesonic** | 具有 AEO 功能的 AI 内容生成平台 | [writesonic.com](https://writesonic.com) |
-| **Athena** | 专注于理解 AI 引擎如何使用和引用内容的 AI 搜索智能平台 | [athena.com](https://athena.com) |
 | **Answer Socrates** | 最适合 GEO 关键词发现 | [answersocrates.com](https://answersocrates.com) |
 
 ### 品牌监测
@@ -187,7 +175,6 @@ npx skills add luka2chat/geo-skills
 | **Schema.org** | 结构化数据标准 | [schema.org](https://schema.org) |
 | **Google 富媒体结果测试** | 测试结构化数据 | [Google 工具](https://search.google.com/test/rich-results) |
 | **Schema Markup Generator** | 结构化数据生成器 | [technicalseo.com](https://technicalseo.com/tools/schema-markup-generator/) |
-| **Merkle Schema Markup Generator** | 高级 Schema 生成工具 | [merkle.com](https://www.merkle.com/tools/schema-markup-generator) |
 | **Schema Pro** | WordPress 自动化 Schema 标记生成插件 | [wpschema.com](https://wpschema.com) |
 
 ### AI 引用与可见度分析
@@ -195,11 +182,7 @@ npx skills add luka2chat/geo-skills
 | 工具 | 描述 | 链接 |
 |------|------|------|
 | **Maximus Labs** | 跨 10+ AI 平台追踪品牌提及和引用的 AI 可见度分析 | [maximuslabs.ai](https://www.maximuslabs.ai) |
-| **AIntelligence** | 企业级 AI 搜索分析，支持竞争基准测试和声量份额报告 | [aintelligence.io](https://aintelligence.io) |
-| **LLM Radar** | 实时监测 LLM 如何引用和推荐品牌 | [llmradar.com](https://llmradar.com) |
-| **Rankscience** | 自动化 AI 搜索测试平台，支持 GEO 策略 A/B 测试 | [rankscience.com](https://rankscience.com) |
 | **Seer Interactive AI Tools** | 理解 AI 引用模式的 AI 搜索分析套件 | [seerinteractive.com](https://www.seerinteractive.com) |
-| **Zyppy** | 专注于 AI Overviews 优化的 SEO 和 GEO 测试平台 | [zyppy.com](https://zyppy.com) |
 | **Originality.ai** | AI 内容检测和优化工具，确保内容真实性以服务 AI 搜索 | [originality.ai](https://originality.ai) |
 | **BrightEdge AI Search** | 跨 Google AI Overviews 和 Bing Copilot 追踪 AI 搜索可见度的企业平台 | [brightedge.com](https://www.brightedge.com) |
 | **seoClarity** | 带有 GEO 分析模块的 AI 驱动企业内容优化平台 | [seoclarity.net](https://www.seoclarity.net) |
