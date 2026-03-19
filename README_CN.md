@@ -19,7 +19,6 @@
 - [书籍](#书籍)
 - [GEO 检查清单](#geo-检查清单)
 
----
 
 ## 学习资源
 
@@ -59,7 +58,6 @@
 - [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot 营销播客，经常讨论 AI 营销和 GEO 话题。
 - [SEOFOMO Weekly](https://seofomo.co/) - Aleyda Solis 的每周 SEO 与 AI 搜索新闻播客。
 
----
 
 ## 工具与平台
 
@@ -122,7 +120,6 @@
 | **seoClarity**                | 带有 GEO 分析模块的 AI 驱动企业内容优化平台                            | [seoclarity.net](https://www.seoclarity.net)           |
 | **Botify**                    | 具有 AI 搜索就绪度评分和爬虫优化的企业 SEO 平台                          | [botify.com](https://www.botify.com)                   |
 
----
 
 ## AI 搜索引擎
 
@@ -161,7 +158,6 @@
 | **Liner**     | AI 驱动的学术和研究搜索引擎            | [liner.ai](https://liner.ai)                 |
 | **SearchGPT** | OpenAI 的实验性独立 AI 搜索界面      | [searchgpt.com](https://searchgpt.com)       |
 
----
 
 ## GEO 策略与最佳实践
 
@@ -431,7 +427,6 @@ AI 品牌提及是 AI 生成响应中对品牌的引用。LLM 在 **26-39%** 的
 - 知名度较低的品牌可能收到保守性语言（"可能值得考虑"）
 - 突围需要积极的数字足迹建设
 
----
 
 ## 分析与监测
 
@@ -499,7 +494,6 @@ graph LR
     E --> A
 ```
 
----
 
 ## 案例研究
 
@@ -545,7 +539,6 @@ B2B 品牌报告显示，来自 AI 搜索平台的转化率比传统搜索高 **
 | **电子商务** | 针对 AI 购物推荐的产品内容优化。     |
 | **法律咨询** | 需要专业资质和准确的法规引用。        |
 
----
 
 ## 社区与论坛
 
@@ -558,7 +551,6 @@ B2B 品牌报告显示，来自 AI 搜索平台的转化率比传统搜索高 **
 - [Superpath](https://superpath.co/) - 内容营销社区，GEO 话题日益增长。
 - [GEO Community on Discord](https://discord.gg/geo-optimization) - 专注 GEO 策略的活跃 Discord 服务器。
 
----
 
 ## 新闻与趋势
 
@@ -585,7 +577,6 @@ B2B 品牌报告显示，来自 AI 搜索平台的转化率比传统搜索高 **
 - [The Neuron](https://www.theneurondaily.com/) - 涵盖搜索和营销影响的每日 AI 通讯。
 - [AI Breakfast](https://aibreakfast.beehiiv.com/) - 每周 AI 搜索和营销汇总。
 
----
 
 ## 书籍
 
@@ -597,7 +588,6 @@ B2B 品牌报告显示，来自 AI 搜索平台的转化率比传统搜索高 **
 | **AI-First SEO**                     | Danny Sullivan, Gary Illyes  | Google 视角的 AI 搜索优化。                |
 | **Prompt Engineering for SEO**       | James Reynolds               | 连接提示工程与搜索优化。                       |
 
----
 
 ## GEO 检查清单
 
@@ -629,7 +619,6 @@ B2B 品牌报告显示，来自 AI 搜索平台的转化率比传统搜索高 **
 - [ ] 是否定期更新内容？
 - [ ] 是否分析 AI 引用的准确性？
 
----
 
 ## 贡献
 

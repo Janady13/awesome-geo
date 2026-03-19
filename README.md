@@ -19,7 +19,6 @@
 - [Books](#books)
 - [GEO Checklist](#geo-checklist)
 
----
 
 ## Learning Resources
 
@@ -58,7 +57,6 @@
 - [Marketing Against the Grain](https://www.hubspot.com/marketing-against-the-grain) - HubSpot marketing podcast, frequently discussing AI marketing and GEO topics.
 - [SEOFOMO Weekly](https://seofomo.co/) - Aleyda Solis' weekly SEO & AI search newsletter with podcast episodes.
 
----
 
 ## Tools & Platforms
 
@@ -121,7 +119,6 @@
 | **seoClarity**                | AI-powered platform with GEO analytics module for enterprise content optimization             | [seoclarity.net](https://www.seoclarity.net)           |
 | **Botify**                    | Enterprise SEO platform with AI search readiness scoring and crawl optimization               | [botify.com](https://www.botify.com)                   |
 
----
 
 ## AI Search Engines
 
@@ -160,7 +157,6 @@
 | **Liner**     | AI-powered academic and research search engine       | [liner.ai](https://liner.ai)                 |
 | **SearchGPT** | OpenAI's experimental standalone AI search interface | [searchgpt.com](https://searchgpt.com)       |
 
----
 
 ## GEO Strategies & Best Practices
 
@@ -430,7 +426,6 @@ AI mentions are brand references in AI-generated responses. LLMs include brand m
 - Lesser-known brands may receive hedging language ("might be worth considering")
 - Breaking through requires aggressive digital footprint building
 
----
 
 ## Analytics & Monitoring
 
@@ -498,7 +493,6 @@ graph LR
     E --> A
 ```
 
----
 
 ## Case Studies
 
@@ -544,7 +538,6 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 | **E-commerce**           | Product content optimization for AI shopping recommendations.      |
 | **Legal Consulting**     | Requires professional qualifications and accurate legal citations. |
 
----
 
 ## Communities & Forums
 
@@ -557,7 +550,6 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - [Superpath](https://superpath.co/) - Content marketing community with growing GEO focus.
 - [GEO Community on Discord](https://discord.gg/geo-optimization) - Active Discord server dedicated to GEO strategies.
 
----
 
 ## News & Trends
 
@@ -584,7 +576,6 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - [The Neuron](https://www.theneurondaily.com/) - Daily AI newsletter covering search and marketing implications.
 - [AI Breakfast](https://aibreakfast.beehiiv.com/) - Weekly AI search and marketing roundup.
 
----
 
 ## Books
 
@@ -596,7 +587,6 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 | **AI-First SEO**                     | Danny Sullivan, Gary Illyes  | Google's perspective on AI search.                                           |
 | **Prompt Engineering for SEO**       | James Reynolds               | Bridging prompt engineering and search optimization.                         |
 
----
 
 ## GEO Checklist
 
@@ -628,7 +618,6 @@ B2B brands report **6X-27X higher conversion rates** from AI search platforms vs
 - [ ] Is content updated regularly?
 - [ ] Is AI citation accuracy analyzed?
 
----
 
 ## Contributing
 
