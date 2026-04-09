@@ -111,14 +111,15 @@
 
 ### AI Citation & Visibility Analytics
 
-| Tool                          | Description                                                                                   | Link                                                   |
-| ----------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| **Maximus Labs**              | AI visibility analytics tracking brand mentions and citations across 10+ AI platforms         | [maximuslabs.ai](https://www.maximuslabs.ai)           |
-| **Seer Interactive AI Tools** | AI-powered search analytics suite for understanding AI citation patterns                      | [seerinteractive.com](https://www.seerinteractive.com) |
-| **Originality.ai**            | AI content detection and optimization tool ensuring content authenticity for AI search        | [originality.ai](https://originality.ai)               |
-| **BrightEdge AI Search**      | Enterprise platform tracking AI search visibility across Google AI Overviews and Bing Copilot | [brightedge.com](https://www.brightedge.com)           |
-| **seoClarity**                | AI-powered platform with GEO analytics module for enterprise content optimization             | [seoclarity.net](https://www.seoclarity.net)           |
-| **Botify**                    | Enterprise SEO platform with AI search readiness scoring and crawl optimization               | [botify.com](https://www.botify.com)                   |
+| Tool | Description | Link |
+|------|-------------|------|
+| **Maximus Labs** | AI visibility analytics tracking brand mentions and citations across 10+ AI platforms | [maximuslabs.ai](https://www.maximuslabs.ai) |
+| **Seer Interactive AI Tools** | AI-powered search analytics suite for understanding AI citation patterns | [seerinteractive.com](https://www.seerinteractive.com) |
+| **Originality.ai** | AI content detection and optimization tool ensuring content authenticity for AI search | [originality.ai](https://originality.ai) |
+| **BrightEdge AI Search** | Enterprise platform tracking AI search visibility across Google AI Overviews and Bing Copilot | [brightedge.com](https://www.brightedge.com) |
+| **seoClarity** | AI-powered platform with GEO analytics module for enterprise content optimization | [seoclarity.net](https://www.seoclarity.net) |
+| **Botify** | Enterprise SEO platform with AI search readiness scoring and crawl optimization | [botify.com](https://www.botify.com) |
+| **Foglift** | AI-powered GEO readiness scanner analyzing llms.txt, structured data, crawlability, and AI search visibility. Free scan with API and MCP server | [foglift.io](https://foglift.io) |
 
 
 ## AI Search Engines
